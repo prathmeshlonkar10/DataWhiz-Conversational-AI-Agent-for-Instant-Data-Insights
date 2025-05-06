@@ -72,11 +72,7 @@ After working with RAG frameworks and LLMs during my internship at Tenable, I be
 ## 🧪 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
-
 ![LangChain – Agent orchestration + tool integration](https://img.shields.io/badge/LangChain-1C3C3C.svg?style=for-the-badge&logo=LangChain&logoColor=white)
-
 ![OpenAI GPT-4 – Natural language understanding and generation](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white)
-
 ![Streamlit – Fast, clean front-end for interaction](https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white)
-
 ![Pandas – Data handling and transformations](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
