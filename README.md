@@ -78,5 +78,5 @@ After working with RAG frameworks and LLMs during my internship at Tenable, I be
 ![Pandas – Data handling and transformations](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 ## Sample Snippets
-![Screenshot 2025-02-22 222057](https://github.com/user-attachments/assets/123771cb-3fbe-4929-b256-65555f3a13be)
+![](./demo/Screenshot1.png)
 
